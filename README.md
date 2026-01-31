@@ -154,5 +154,3 @@ const scale = 2 / maxDim // Change the 2 to make bigger/smaller
 - Material/texture editing
 - Animation playback
 - VR support
-
-# 3d-viewer-app-Aeromine-Cube
